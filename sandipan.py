@@ -2,10 +2,10 @@
 # SCRIPT BY TU ADMIN NHI HAI TU CHUTIYA HAI
 
 # Enter Your Bot Token here get it from @botfarher
-BOT_TOKEN=("7892208728:AAEUUeci_pJ_yuRYZf2pz8WIh9br4tYm7as")
+BOT_TOKEN=("7688718088:AAGg83EwtG_u_9vfrP0huqUBBpMuf2UWIn4")
 
 # Enter Your telegram usernames here without @
 OWNER_USERNAME=("@Sandipan_1508")
 
 # Enter your admin IDs here. Get it from @missRose_bot by typing /info
-ADMIN_IDS=("6228283651", "5577479397")
+ADMIN_IDS=("6228283651", "7930447594")
